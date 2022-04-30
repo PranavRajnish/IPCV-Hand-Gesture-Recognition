@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IPCVImages</folder>
+	<filename>ok.e8ba5588-b7ed-11ec-abaf-347df65f57d9.jpg</filename>
+	<path>C:\MyStuff\PES\SEM_VI\IPCV\ObjectDetection\RealTimeObjectDetection\Tensorflow\workspace\images\IPCVImages\ok.e8ba5588-b7ed-11ec-abaf-347df65f57d9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ok</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>1</ymin>
+			<xmax>332</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

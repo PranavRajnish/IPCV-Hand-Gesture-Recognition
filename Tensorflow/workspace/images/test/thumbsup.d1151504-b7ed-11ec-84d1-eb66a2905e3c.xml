@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IPCVImages</folder>
+	<filename>thumbsup.d1151504-b7ed-11ec-84d1-eb66a2905e3c.jpg</filename>
+	<path>C:\MyStuff\PES\SEM_VI\IPCV\ObjectDetection\RealTimeObjectDetection\Tensorflow\workspace\images\IPCVImages\thumbsup.d1151504-b7ed-11ec-84d1-eb66a2905e3c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>277</ymin>
+			<xmax>476</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

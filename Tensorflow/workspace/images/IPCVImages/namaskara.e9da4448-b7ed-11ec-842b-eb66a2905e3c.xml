@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IPCVImages</folder>
+	<filename>namaskara.e9da4448-b7ed-11ec-842b-eb66a2905e3c.jpg</filename>
+	<path>C:\MyStuff\PES\SEM_VI\IPCV\ObjectDetection\RealTimeObjectDetection\Tensorflow\workspace\images\IPCVImages\namaskara.e9da4448-b7ed-11ec-842b-eb66a2905e3c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Namaskara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>158</ymin>
+			<xmax>350</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

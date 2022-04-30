@@ -1,0 +1,20 @@
+item { 
+	name:'Goodbye'
+	id:1
+}
+item { 
+	name:'Namaskara'
+	id:2
+}
+item { 
+	name:'Ok'
+	id:3
+}
+item { 
+	name:'Peace'
+	id:4
+}
+item { 
+	name:'Thumbsup'
+	id:5
+}
