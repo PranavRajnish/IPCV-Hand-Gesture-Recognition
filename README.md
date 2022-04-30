@@ -36,9 +36,9 @@ OpenCV for accesing webcam footage for realtime object detection.
 
 `pip install opencv-python`
 
-# Running the model
+## Running the model
 
-To run the model run execute the run.ipynb file
+To run the model execute the run.ipynb file
 
 
 ## Note 
