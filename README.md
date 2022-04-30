@@ -44,4 +44,4 @@ To run the model execute the run.ipynb file
 ## Note 
 
 For the object detection, we have cloned the git repo https://github.com/nicknochnack/RealTimeObjectDetection, which is face mask detection training template.
-We have then adapted the model to work for hand gesture recognition by changinig the number of classes, feeding into it our custom datset, and changing the config parameters of the model.
+We have then adapted the model to work for hand gesture recognition by changing the number of classes, feeding into it our custom datset, and changing the config parameters of the model.
